@@ -29,7 +29,7 @@ sudo apt install libimage-exiftool-perl
 #### Step 4: Export metadata to a text file (optional):
 ![{5AAF7492-20E3-455C-9CF6-1FE0804E9442}](https://github.com/user-attachments/assets/9a94502c-9931-4c76-b6fd-4caa5ca52579)
 
-#### Step 4: Look for key details:
+#### Step 5: Look for key details:
 • Creation Date
 
 • Modification Date
@@ -52,8 +52,30 @@ sudo apt install steghide
 ![{0C96D7A8-9ED2-40F8-94D4-129237C09713}](https://github.com/user-attachments/assets/7bb22c15-0eb9-4560-9ca7-8b66fee2f9ff)
 
 
-### 2.Using zsteg
-#### Step 1: 
+### 2.Using zsteg(For PNG files)
+#### Step 1: Install Ruby + zsteg:
+```
+sudo apt install ruby
+sudo gem install zsteg
+```
+
+#### Step 2: Run zsteg on a PNG:
+
+
+
+
+### 3.Using binwalk
+#### Step1: Install binwalk:
+```
+sudo apt install binwalk
+```
+
+#### Step 2: Scan for embedded files:
+#### Step 3: Extract all hidden files:
+
+### 4.Using strings (for quick hidden text):
+
+
 
 
 
