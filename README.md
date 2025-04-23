@@ -60,8 +60,7 @@ sudo gem install zsteg
 ```
 
 #### Step 2: Run zsteg on a PNG:
-
-
+![{8EADF97E-659D-4211-B0BB-6FA2DE9F5F3D}](https://github.com/user-attachments/assets/09aceb12-9c65-4557-91f6-cd3c4246e274)
 
 
 ### 3.Using binwalk
