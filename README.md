@@ -12,8 +12,8 @@ Use log2timeline and plaso to create and analyze event timelines from system log
 ### Step 3:
 Apply steganography detection tools like steghide, zsteg, or binwalk to uncover hidden data in media files.
 
-
-## Metadata Extraction using ExifTool
+## ANALYSING TOOLS
+## A.Metadata Extraction using ExifTool
 ### Step 1:Install ExifTool (if not already installed):
 ```
 sudo apt update
@@ -28,8 +28,6 @@ sudo apt install libimage-exiftool-perl
 
 ### Step 4: Export metadata to a text file (optional):
 ![{5AAF7492-20E3-455C-9CF6-1FE0804E9442}](https://github.com/user-attachments/assets/9a94502c-9931-4c76-b6fd-4caa5ca52579)
-
-
 
 ### Step 4: Look for key details:
 • Creation Date
