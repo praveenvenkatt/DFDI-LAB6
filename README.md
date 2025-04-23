@@ -49,7 +49,8 @@ sudo apt install libimage-exiftool-perl
 sudo apt install steghide
 ```
 #### Step 2: Extract hidden data:
-![{0C96D7A8-9ED2-40F8-94D4-129237C09713}](https://github.com/user-attachments/assets/7bb22c15-0eb9-4560-9ca7-8b66fee2f9ff)
+![{A9EE6D5B-27EE-46B2-A176-28D95F7DDDFF}](https://github.com/user-attachments/assets/d21b6136-e501-4326-81c4-7099732c967d)
+
 
 
 ### 2.Using zsteg(For PNG files)
@@ -60,7 +61,8 @@ sudo gem install zsteg
 ```
 
 #### Step 2: Run zsteg on a PNG:
-![{8EADF97E-659D-4211-B0BB-6FA2DE9F5F3D}](https://github.com/user-attachments/assets/09aceb12-9c65-4557-91f6-cd3c4246e274)
+![{DEA3DD19-FE6F-44ED-B38B-E8235FC3AB74}](https://github.com/user-attachments/assets/ff647fa7-6b74-4f53-bddd-fa94fc1e290d)
+
 
 
 ### 3.Using binwalk
