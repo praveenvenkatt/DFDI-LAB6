@@ -63,17 +63,6 @@ sudo gem install zsteg
 #### Step 2: Run zsteg on a PNG:
 ![{DEA3DD19-FE6F-44ED-B38B-E8235FC3AB74}](https://github.com/user-attachments/assets/ff647fa7-6b74-4f53-bddd-fa94fc1e290d)
 
-
-
-### 3.Using binwalk
-#### Step1: Install binwalk:
-```
-sudo apt install binwalk
-```
-
-#### Step 2: Scan for embedded files:
-#### Step 3: Extract all hidden files:
-
 ### 4.Using strings (for quick hidden text):
 
 #### Step1:  Create a text file to hide
