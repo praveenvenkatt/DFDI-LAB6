@@ -76,6 +76,17 @@ sudo apt install binwalk
 
 ### 4.Using strings (for quick hidden text):
 
+#### Step1:  Create a text file to hide
+![{C8E31D09-26F9-4E12-85B2-11887DA413B4}](https://github.com/user-attachments/assets/a3f7bd26-036f-4772-88dd-7df15e507691)
+
+#### Step2: Use cat to append the text file to a JPEG\
+![image](https://github.com/user-attachments/assets/70abee74-474d-4606-b365-9ea5c660199e)
+
+#### Step3: Use strings to find the hidden message
+![{1922A873-2EF1-4EE8-8589-20205D947064}](https://github.com/user-attachments/assets/cc94ed6b-7e4a-44f5-902d-7fa3e43ec415)
+
+
+
 
 
 
