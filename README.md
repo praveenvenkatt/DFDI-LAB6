@@ -1,6 +1,11 @@
-# Metadata-Extraction-using-ExifTool-log2timeline-and-Hidden-Data-Search-using-Steganography-Tools
+# EX 6: Metadata Extraction using ExifTool log2timeline and Hidden Data Search using Steganography Tools
 ## AIM:
 To extract metadata, perform timeline analysis, and search for hidden data using forensic tools like ExifTool, log2timeline, and steganography detection tools.
+
+```
+Register Number: 212222040121
+Name: Praveen V
+```
 
 ## DESIGN STEPS:
 ### Step 1:
